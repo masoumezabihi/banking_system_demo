@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+data/*.json
+logs/*.log
