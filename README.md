@@ -84,7 +84,7 @@ banking-system/
 - Customer data stored in JSON format
 - Local file-based storage system
 
-# Logs
+## Logs
 Log file is stored in the logs/ folder. This file contains system logs, including error messages, warnings, and other important system information.
 
 ## Contributing
