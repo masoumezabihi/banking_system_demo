@@ -27,8 +27,12 @@ A command-line banking system implementation in Python that simulates core banki
 ```bash
 git clone https://github.com/masoumezabihi/banking_system_demo.git
 ```
+2. Navigate into the project directory
+```bash
+cd banking_system_demo
+```
 
-2. Run the program
+3. Run the program
 ```bash
 python main.py
 ```
